@@ -3,7 +3,6 @@ package config;
 
 public class CONST {
 
-
     public static final String BASE_URL="https://api.miaodiyun.com/20150822";
 
     public static final String ACCOUNT_SID="b8533b5fbcdd445b8071f0e0463997d";
